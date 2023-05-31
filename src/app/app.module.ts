@@ -7,6 +7,7 @@ import { AppComponent } from './app.component';
 import { MpenduloComponent } from './components/mpendulo/mpendulo.component';
 import { TitleComponent } from './components/title/title.component';
 import { NtokozoComponent } from './ntokozo/ntokozo.component';
+import { ThilivhaliComponent } from './components/thilivhali/thilivhali.component';
 import { LebohangComponent } from './components/lebohang/lebohang.component';
 import { MoniqueComponent } from './components/monique/monique.component';
 
@@ -16,6 +17,7 @@ import { MoniqueComponent } from './components/monique/monique.component';
     MpenduloComponent,
     TitleComponent,
     NtokozoComponent,
+    ThilivhaliComponent,
     LebohangComponent,
     MoniqueComponent,
     MukosiComponent
