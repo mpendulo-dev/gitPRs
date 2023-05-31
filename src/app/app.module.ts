@@ -8,6 +8,7 @@ import { MpenduloComponent } from './components/mpendulo/mpendulo.component';
 import { TitleComponent } from './components/title/title.component';
 import { BafanaComponent } from './bafana/bafana.component';
 import { CostaComponent } from './costa/costa.component';
+import { ThilivhaliComponent } from './components/thilivhali/thilivhali.component';
 import { LebohangComponent } from './components/lebohang/lebohang.component';
 import { MoniqueComponent } from './components/monique/monique.component';
 
@@ -18,6 +19,7 @@ import { MoniqueComponent } from './components/monique/monique.component';
     TitleComponent,
     BafanaComponent,
     CostaComponent,
+    ThilivhaliComponent,
     LebohangComponent,
     MoniqueComponent,
     MukosiComponent
