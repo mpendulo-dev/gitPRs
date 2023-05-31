@@ -1,3 +1,4 @@
+import { MukosiComponent } from './components/mukosi/mukosi.component';
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
@@ -14,7 +15,9 @@ import { MoniqueComponent } from './components/monique/monique.component';
     MpenduloComponent,
     TitleComponent,
     LebohangComponent,
-    MoniqueComponent
+    MoniqueComponent,
+    MukosiComponent
+
   ],
   imports: [
     BrowserModule,
