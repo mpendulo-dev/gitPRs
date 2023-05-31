@@ -5,12 +5,14 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { MpenduloComponent } from './components/mpendulo/mpendulo.component';
 import { TitleComponent } from './components/title/title.component';
+import { KamogeloComponent } from './components/kamogelo/kamogelo.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     MpenduloComponent,
-    TitleComponent
+    TitleComponent,
+    KamogeloComponent
   ],
   imports: [
     BrowserModule,
