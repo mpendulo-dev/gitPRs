@@ -1,3 +1,4 @@
+import { MukosiComponent } from './components/mukosi/mukosi.component';
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
@@ -7,6 +8,8 @@ import { MpenduloComponent } from './components/mpendulo/mpendulo.component';
 import { TitleComponent } from './components/title/title.component';
 import { BafanaComponent } from './bafana/bafana.component';
 import { CostaComponent } from './costa/costa.component';
+import { LebohangComponent } from './components/lebohang/lebohang.component';
+import { MoniqueComponent } from './components/monique/monique.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +17,11 @@ import { CostaComponent } from './costa/costa.component';
     MpenduloComponent,
     TitleComponent,
     BafanaComponent,
-    CostaComponent
+    CostaComponent,
+    LebohangComponent,
+    MoniqueComponent,
+    MukosiComponent
+
   ],
   imports: [
     BrowserModule,
