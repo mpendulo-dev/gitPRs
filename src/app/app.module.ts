@@ -6,13 +6,15 @@ import { AppComponent } from './app.component';
 import { MpenduloComponent } from './components/mpendulo/mpendulo.component';
 import { TitleComponent } from './components/title/title.component';
 import { ThilivhaliComponent } from './components/thilivhali/thilivhali.component';
+import { LebohangComponent } from './components/lebohang/lebohang.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     MpenduloComponent,
     TitleComponent,
-    ThilivhaliComponent
+    ThilivhaliComponent,
+    LebohangComponent
   ],
   imports: [
     BrowserModule,
