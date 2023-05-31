@@ -15,7 +15,6 @@ import { MoniqueComponent } from './components/monique/monique.component';
     MpenduloComponent,
     TitleComponent,
     ThilivhaliComponent,
-    LebohangComponent
     LebohangComponent,
     MoniqueComponent
   ],
