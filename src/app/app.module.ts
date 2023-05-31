@@ -6,6 +6,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { MpenduloComponent } from './components/mpendulo/mpendulo.component';
 import { TitleComponent } from './components/title/title.component';
+import { ThilivhaliComponent } from './components/thilivhali/thilivhali.component';
 import { LebohangComponent } from './components/lebohang/lebohang.component';
 import { MoniqueComponent } from './components/monique/monique.component';
 
@@ -14,6 +15,7 @@ import { MoniqueComponent } from './components/monique/monique.component';
     AppComponent,
     MpenduloComponent,
     TitleComponent,
+    ThilivhaliComponent,
     LebohangComponent,
     MoniqueComponent,
     MukosiComponent
