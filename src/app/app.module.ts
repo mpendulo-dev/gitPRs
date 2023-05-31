@@ -6,8 +6,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { MpenduloComponent } from './components/mpendulo/mpendulo.component';
 import { TitleComponent } from './components/title/title.component';
-import { BafanaComponent } from './bafana/bafana.component';
-import { CostaComponent } from './costa/costa.component';
+import { BafanaComponent } from './components/bafana/bafana.component';
 import { ThilivhaliComponent } from './components/thilivhali/thilivhali.component';
 import { LebohangComponent } from './components/lebohang/lebohang.component';
 import { MoniqueComponent } from './components/monique/monique.component';
@@ -18,7 +17,6 @@ import { MoniqueComponent } from './components/monique/monique.component';
     MpenduloComponent,
     TitleComponent,
     BafanaComponent,
-    CostaComponent,
     ThilivhaliComponent,
     LebohangComponent,
     MoniqueComponent,
