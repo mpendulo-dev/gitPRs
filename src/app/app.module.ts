@@ -7,6 +7,7 @@ import { MpenduloComponent } from './components/mpendulo/mpendulo.component';
 import { TitleComponent } from './components/title/title.component';
 import { ThilivhaliComponent } from './components/thilivhali/thilivhali.component';
 import { LebohangComponent } from './components/lebohang/lebohang.component';
+import { MoniqueComponent } from './components/monique/monique.component';
 
 @NgModule({
   declarations: [
@@ -15,6 +16,8 @@ import { LebohangComponent } from './components/lebohang/lebohang.component';
     TitleComponent,
     ThilivhaliComponent,
     LebohangComponent
+    LebohangComponent,
+    MoniqueComponent
   ],
   imports: [
     BrowserModule,
