@@ -5,12 +5,14 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { MpenduloComponent } from './components/mpendulo/mpendulo.component';
 import { TitleComponent } from './components/title/title.component';
+import { NtokozoComponent } from './ntokozo/ntokozo.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     MpenduloComponent,
-    TitleComponent
+    TitleComponent,
+    NtokozoComponent
   ],
   imports: [
     BrowserModule,
