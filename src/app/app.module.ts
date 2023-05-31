@@ -24,7 +24,6 @@ import { MoniqueComponent } from './components/monique/monique.component';
     MukosiComponent,
     NameComponent
 
-
   ],
   imports: [
     BrowserModule,
