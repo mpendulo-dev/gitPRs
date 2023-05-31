@@ -10,7 +10,7 @@ import { TitleComponent } from './components/title/title.component';
   declarations: [
     AppComponent,
     MpenduloComponent,
-    TitleComponent
+    TitleComponent,
   ],
   imports: [
     BrowserModule,
