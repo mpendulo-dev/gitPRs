@@ -11,6 +11,7 @@ import { BafanaComponent } from './components/bafana/bafana.component';
 import { ThilivhaliComponent } from './components/thilivhali/thilivhali.component';
 import { LebohangComponent } from './components/lebohang/lebohang.component';
 import { MoniqueComponent } from './components/monique/monique.component';
+import { MohammedComponent } from './components/mohammed/mohammed.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +23,8 @@ import { MoniqueComponent } from './components/monique/monique.component';
     LebohangComponent,
     MoniqueComponent,
     MukosiComponent,
-    NameComponent
+    NameComponent,
+    MohammedComponent
 
   ],
   imports: [
